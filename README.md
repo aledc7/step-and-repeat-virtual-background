@@ -1,4 +1,4 @@
-# Add Your Own Logo Step and Repeat Virtual Background Mockup
+# Add Your Own Logo Step and Repeat Virtual Background Mockupp
 
 With smart objects layer, you have the ability to add your own logo to create a beautiful, professional virtual background.
 
